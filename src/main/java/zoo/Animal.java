@@ -1,4 +1,7 @@
 package zoo;
 
-public class Animal {
+public abstract class Animal {
+
+    public void makeNoise(){}
+
 }
